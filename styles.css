@@ -7,7 +7,7 @@ h1 {
 }
 
 button {
-    padding: 8px;
-    border: 1px solid #008080;
-    border-radius: 16px;
+    padding: 10px;
+    color: #008080;
+    color: #f0f0f0;
 }

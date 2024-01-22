@@ -5,3 +5,9 @@ body {
 h1 {
     color: #333;
 }
+
+button {
+    padding: 10px;
+    color: #008080;
+    color: #f0f0f0;
+}
